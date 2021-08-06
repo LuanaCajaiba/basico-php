@@ -4,7 +4,7 @@ The PHP language is a language for web development. In this repository will be f
 
 ## References
 
-- [PHP4Noobs - Guia Introdutório para o PHP](https://www.udemy.com/course/php4noobs/)
+[PHP4Noobs](https://www.udemy.com/course/php4noobs/) 
 
 
 ## Version
@@ -13,7 +13,7 @@ The PHP language is a language for web development. In this repository will be f
 
 ## License
 
-<p align="center">
+<p align="left">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
