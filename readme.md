@@ -13,6 +13,8 @@ The PHP language is a language for web development. In this repository will be f
 
 ## License
 
-The PHP language is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
